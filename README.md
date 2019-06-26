@@ -1,4 +1,4 @@
-FrontEnd for Statecharts
+Steps to use the FrontEnd for Statecharts:
 
 Download project
 
